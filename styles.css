@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .icrd {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .icrd img {
+    max-width: 100%;
+  }
+  
+  .icardi {
+    padding: 30px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+  }
+  
+  .icardi h2 {
+    color: #333;
+  }
+  
+  .icardi p {
+    margin-bottom: 20px;
+  }
+  
